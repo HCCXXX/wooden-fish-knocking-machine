@@ -1,0 +1,13 @@
+my_utils\raylibx\draw_unitext.d 
+my_utils\my_tools.d 
+raylib\binding.d 
+raylib\package.d 
+raylib\raylib_types.d 
+raylib\raymath.d 
+raylib\raymathext.d 
+raylib\reasings.d 
+raylib\rlgl.d 
+beating_the_wooden_drum.d 
+controls_test_suite.d 
+raygui.d 
+raylibdll.lib 
